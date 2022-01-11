@@ -1,6 +1,0 @@
-[submodule "backend"]
-	path = backend
-	url = git@github.com:woojinnn/madcamp_pj2_backend.git
-[submodule "frontend"]
-	path = frontend
-	url = git@github.com:woojin7879/when2meet_frontend.git
