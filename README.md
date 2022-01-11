@@ -31,8 +31,28 @@
 
 ---
 ## Demo and Explanation
-TODO
+"언제볼래?" is an application for scheduling appointment.  
+Here comes some demo videos:  
+1. Login via Kakao account  
+    <img src="./res/로그인_gif.gif" width="180" height="380">
 
+2. Making appointment  
+    <img src="./res/약속 만들기_gif.gif" width="180" height="380">
+
+3. Enter appointment and Check schedule
+    <p>
+    <img src="./res/약속 들어가기_gif.gif" width="180" height="380">
+    <img src="./res/n명가능_gif.gif" width="180" height="380">
+    </p>  
+    ** We modified colors darker so that you can distinguish better
+
+4. Exit and Delete appointment  
+    <p>
+    <img src="./res/나가기_gif.gif" width="180" height="380">
+    <img src="./res/삭제하기_gif.gif" width="180" height="380">
+    </p>
+
+</br>
 
 ---
 ## Contacts
@@ -42,6 +62,6 @@ Contributors
     - Database management
     - Server management
     - HTTP connection with `Retrofit2`
-- Woojin, Jung: ???
+- Woojin, Jung: woojin7879@unist.ac.kr
     - Kakao SDK login
-    - Application development
+    - Application development via Android Studio
